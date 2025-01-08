@@ -1,7 +1,19 @@
 * {
+    box-sizing: border-box;
     color:blue;
     font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
 }
 
+.list-bg {
+    width: 400px;
+    margin: 0 auto;
+}
 
+.list {
+    width: 100px;
+    margin: 0 auto 0;
+}
 
+.main-title {
+    text-align: center;
+}
